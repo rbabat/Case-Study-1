@@ -12,6 +12,6 @@ hotfix must be ready and tested by 24th. This way, the product releases can happ
 on 25th only.
 
 3. WorkFlow:
-   merge f2 --> f1 --> master
-   create hotfix branch, and add urgent.txt file (stage & commit the file, stash it, then unstash it by 24th)
-   then merge hotfix --> master
+   merge f2 --> f1 --> master.
+   create hotfix branch, and add urgent.txt file (stage & commit the file, stash it, then unstash it by 24th).
+   then merge hotfix --> master.
